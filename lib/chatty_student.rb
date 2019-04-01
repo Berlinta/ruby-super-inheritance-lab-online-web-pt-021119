@@ -11,5 +11,6 @@ class ChattyStudent < Student
     num.times do
     string
   end
+end
 
 end
