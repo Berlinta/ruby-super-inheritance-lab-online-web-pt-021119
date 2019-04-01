@@ -7,18 +7,18 @@ class ChattyStudent < Student
   
   def raise_hand
     num = 10
-string = "Pick me!"
-
-num.times do
-  string
+    string = "Pick me!"
+    num.times do
+      string
+    end
 end
   
   
   
-  def raise_hand
-    super
-    10.times("Pick me!")
-  end
+  # def raise_hand
+  #   super
+  #   10.times("Pick me!")
+  # end
     
   
 end
