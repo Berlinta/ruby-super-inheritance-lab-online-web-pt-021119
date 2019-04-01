@@ -9,8 +9,8 @@ class ChattyStudent < Student
     num = 10
     string = "Pick me!"
     num.times do
-      string
-    end
+    string
+  end
 end
   
   
@@ -20,5 +20,3 @@ end
   #   10.times("Pick me!")
   # end
     
-  
-end
