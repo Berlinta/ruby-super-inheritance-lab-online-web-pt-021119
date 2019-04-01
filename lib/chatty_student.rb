@@ -6,10 +6,6 @@ class ChattyStudent < Student
   end
   
   def raise_hand
-    num = 10
-    string = "Pick me!"
-    num.times do
-    puts string
-  end
+ 
 end
 
