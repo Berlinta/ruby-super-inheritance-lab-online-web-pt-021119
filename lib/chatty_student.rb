@@ -11,12 +11,5 @@ class ChattyStudent < Student
     num.times do
     string
   end
+
 end
-  
-  
-  
-  # def raise_hand
-  #   super
-  #   10.times("Pick me!")
-  # end
-    
