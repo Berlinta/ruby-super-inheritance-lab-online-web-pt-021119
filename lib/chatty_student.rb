@@ -9,8 +9,7 @@ class ChattyStudent < Student
     num = 10
     string = "Pick me!"
     num.times do
-    string
+    puts string
   end
 end
 
-end
